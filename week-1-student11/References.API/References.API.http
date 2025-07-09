@@ -1,6 +1,0 @@
-@References.API_HostAddress = http://localhost:1337
-
-GET {{References.API_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
